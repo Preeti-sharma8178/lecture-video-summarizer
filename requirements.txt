@@ -3,5 +3,5 @@ streamlit
 openai-whisper
 transformers
 torch
-opencv-python
+opencv-python-headless==4.5.5.64
 scikit-learn
