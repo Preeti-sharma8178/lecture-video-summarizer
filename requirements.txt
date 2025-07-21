@@ -1,0 +1,7 @@
+openai-whisper
+streamlit
+openai-whisper
+transformers
+torch
+opencv-python
+scikit-learn
